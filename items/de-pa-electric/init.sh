@@ -1,0 +1,54 @@
+mkdir -p DE-PA.star-series.9200xx
+mkdir -p DE-PA.star-series.9201xx
+mkdir -p DE-PA.star-series.9201xx-USB
+mkdir -p DE-PA.star-series.9202xx
+mkdir -p DE-PA.star-series.9202xx-USB
+mkdir -p DE-PA.star-series.9210xx
+mkdir -p DE-PA.star-series.9211xx
+mkdir -p DE-PA.star-series.9211xx-USB
+mkdir -p DE-PA.star-series.9212xx
+mkdir -p DE-PA.star-series.9212xx-USB
+
+mkdir -p DE-PA.star-series.9300xx
+mkdir -p DE-PA.star-series.9301xx
+mkdir -p DE-PA.star-series.9301xx-USB
+mkdir -p DE-PA.star-series.9302xx
+mkdir -p DE-PA.star-series.9302xx-USB
+mkdir -p DE-PA.star-series.9310xx
+mkdir -p DE-PA.star-series.9311xx
+mkdir -p DE-PA.star-series.9311xx-USB
+mkdir -p DE-PA.star-series.9312xx
+mkdir -p DE-PA.star-series.9312xx-USB
+
+mkdir -p DE-PA.star-series.9400xx
+mkdir -p DE-PA.star-series.9401xx
+mkdir -p DE-PA.star-series.9401xx-USB
+mkdir -p DE-PA.star-series.9402xx
+mkdir -p DE-PA.star-series.9402xx-USB
+mkdir -p DE-PA.star-series.9410xx
+mkdir -p DE-PA.star-series.9411xx
+mkdir -p DE-PA.star-series.9411xx-USB
+mkdir -p DE-PA.star-series.9412xx
+mkdir -p DE-PA.star-series.9412xx-USB
+
+mkdir -p DE-PA.star-series.9500xx
+mkdir -p DE-PA.star-series.9501xx
+mkdir -p DE-PA.star-series.9501xx-USB
+mkdir -p DE-PA.star-series.9502xx
+mkdir -p DE-PA.star-series.9502xx-USB
+mkdir -p DE-PA.star-series.9510xx
+mkdir -p DE-PA.star-series.9511xx
+mkdir -p DE-PA.star-series.9511xx-USB
+mkdir -p DE-PA.star-series.9512xx
+mkdir -p DE-PA.star-series.9512xx-USB
+
+mkdir -p DE-PA.star-series.9600xx
+mkdir -p DE-PA.star-series.9601xx
+mkdir -p DE-PA.star-series.9601xx-USB
+mkdir -p DE-PA.star-series.9602xx
+mkdir -p DE-PA.star-series.9602xx-USB
+mkdir -p DE-PA.star-series.9610xx
+mkdir -p DE-PA.star-series.9611xx
+mkdir -p DE-PA.star-series.9611xx-USB
+mkdir -p DE-PA.star-series.9612xx
+mkdir -p DE-PA.star-series.9612xx-USB
